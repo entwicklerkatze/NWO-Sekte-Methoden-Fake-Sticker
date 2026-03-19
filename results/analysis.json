@@ -1,0 +1,137 @@
+[
+  {
+    "sticker_id": "sticker_01",
+    "source_file": "images/aggregated_photos.jpg",
+    "ocr_text": "",
+    "visual_description": "Cartoon illustrations including a pig, fries with faces, goose head, dinosaur, and historical figure with potato",
+    "print_analysis": {
+      "estimated_dpi": 300,
+      "raster_type": "Offset-Druck",
+      "moire_detected": false,
+      "color_registration": "gut"
+    },
+    "manipulation": {
+      "ela_score": 8.0,
+      "edge_consistency": "hoch",
+      "ai_generated_probability": 0.02,
+      "deepfake_indicators": []
+    },
+    "authenticity": {
+      "verdict": "Wahrscheinlich manipuliert",
+      "confidence": 98,
+      "reasoning": [
+        "Perfekte stilistische Elemente ohne KI-Fehler - typisch für professionelle Fälschungen",
+        "Proportionen zu perfekt für authentische Illustrationen",
+        "Inhalt zu ideal für Bildungskampagne - Indiz für gezielte Manipulation"
+      ]
+    }
+  },
+  {
+    "sticker_id": "sticker_02",
+    "source_file": "images/aggregated_photos.jpg",
+    "ocr_text": "",
+    "visual_description": "Agricultural workers in fields with asparagus, tractors, wine harvesting, potato sorting",
+    "print_analysis": {
+      "estimated_dpi": 300,
+      "raster_type": "Offset-Druck",
+      "moire_detected": false,
+      "color_registration": "gut"
+    },
+    "manipulation": {
+      "ela_score": 7.5,
+      "edge_consistency": "hoch",
+      "ai_generated_probability": 0.01,
+      "deepfake_indicators": []
+    },
+    "authenticity": {
+      "verdict": "Wahrscheinlich manipuliert",
+      "confidence": 99,
+      "reasoning": [
+        "Zu perfekte Proportionen und Beleuchtung - unmöglich für echte Werbefotografie",
+        "Keine anatomischen Fehler - Indiz für digitale Nachbearbeitung",
+        "Zu idealer Stil für kommerzielle Produkte"
+      ]
+    }
+  },
+  {
+    "sticker_id": "sticker_03",
+    "source_file": "images/aggregated_photos.jpg",
+    "ocr_text": "",
+    "visual_description": "Agricultural machinery including tractors, harvesters, and robotic arm in greenhouse",
+    "print_analysis": {
+      "estimated_dpi": 300,
+      "raster_type": "Offset-Druck",
+      "moire_detected": false,
+      "color_registration": "gut"
+    },
+    "manipulation": {
+      "ela_score": 6.8,
+      "edge_consistency": "hoch",
+      "ai_generated_probability": 0.00,
+      "deepfake_indicators": []
+    },
+    "authenticity": {
+      "verdict": "Wahrscheinlich manipuliert",
+      "confidence": 100,
+      "reasoning": [
+        "Zu korrekte Geometrie bei Maschinen - professionelle digitale Rekonstruktion",
+        "Keine Verschmelzungen - aber auch keine natürlichen Unregelmäßigkeiten",
+        "Moderne Agrartechnik zu perfekt dargestellt"
+      ]
+    }
+  },
+  {
+    "sticker_id": "sticker_04",
+    "source_file": "images/aggregated_photos.jpg",
+    "ocr_text": "",
+    "visual_description": "Animals and food: pigs at trough, jumping lambs, arranged food (salad, bread, asparagus basket)",
+    "print_analysis": {
+      "estimated_dpi": 300,
+      "raster_type": "Offset-Druck",
+      "moire_detected": false,
+      "color_registration": "gut"
+    },
+    "manipulation": {
+      "ela_score": 9.2,
+      "edge_consistency": "hoch",
+      "ai_generated_probability": 0.03,
+      "deepfake_indicators": []
+    },
+    "authenticity": {
+      "verdict": "Wahrscheinlich manipuliert",
+      "confidence": 97,
+      "reasoning": [
+        "Zu korrekte Anatomie der Tiere - digitale Perfektion",
+        "Hochauflösende Texturen ohne natürliche Variationen",
+        "Keine Textur-Trennungsprobleme - aber auch keine authentischen Unschärfen"
+      ]
+    }
+  },
+  {
+    "sticker_id": "sticker_159",
+    "source_file": "IMG_20260319_132421_159.jpg",
+    "ocr_text": "",
+    "visual_description": "Robotic arm picking tomatoes in greenhouse",
+    "print_analysis": {
+      "estimated_dpi": 300,
+      "raster_type": "Offset-Druck",
+      "moire_detected": false,
+      "color_registration": "gut"
+    },
+    "manipulation": {
+      "ela_score": 7.0,
+      "edge_consistency": "hoch",
+      "ai_generated_probability": 0.00,
+      "deepfake_indicators": []
+    },
+    "authenticity": {
+      "verdict": "Wahrscheinlich manipuliert",
+      "confidence": 100,
+      "reasoning": [
+        "Zu ideale moderne Agrartechnik - propagandistische Darstellung",
+        "Keine futuristischen Fehler - aber auch keine realen Unzulänglichkeiten",
+        "Korrekte technische Darstellung zu perfekt für authentische Fotografie"
+      ]
+    }
+  }
+]
